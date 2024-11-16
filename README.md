@@ -40,6 +40,4 @@ The project is organized into three main files:
 
 Contributions are welcome! Feel free to submit a pull request or open an issue for any bugs, feature requests, or improvements.
 
-### License
 
-This project is open-sourced under the MIT License.
